@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Enter the void</string>
+    <string name="new_game">Nouvelle partie</string>
+    <string name="resume_game">Reprendre la partie</string>
+    <string name="settings">Paramètres</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="level">Niveau %d</string>
+    <string name="level_max">Niveau maximum : %d</string>
+    <string name="title_activity_settings">Préférences</string>
+    <string name="vibrate_on_win">Faire vibrer l\'appareil lors d\'un succes</string>
+    <string name="reset">Réinitialiser le jeu</string>
+    <string name="stats">Statistiques</string>
+    <string name="rebounds">%d rebonds.</string>
+    <string name="about">Enter the void copyleft Øxmose 2015</string>
+    <string name="menu_action_contact">Contact</string>
+    <string name="menu_action_about">A propos</string>
+    <string name="contact_body">Salut Alexy,</string>
+    <string name="sendmail">Envoyer un email</string>
+    <string name="nomailclient">Aucun client email n\'est installé.</string>
+    <string name="devname">Alexy Torres Aurora Dugo</string>
+    <string name="devnick">Øxmose\nalexy.torresa@gmail.com</string>
+    <string name="abouttext">Réalisé dans le cadre d\'un projet scolaire (IUT Aix-Marseille InfoAix) Février-Avril 2015.\nDéveloppé sur un écran 1080x1920 xxhdpi, portage sur autres formats en cours.</string>
+    <string name="version">Commit 1056a9a</string>
+    <string name="errorlevelload">Erreur de chargement des niveaux.</string>
+    <string name="loose">Perdu!\nTouchez pour reessayer</string>
+    <string name="win">Niveau terminé !</string>
+    <string name="wintext">Vous avez terminé le niveau %d!\nBien joué.</string>
+    <string name="nextlevel">Suivant</string>
+    <string name="share">Partager</string>
+    <string name="shareMessage">Je viens de finir le niveau %d de Enter the void!</string>
+    <string name="shareWith">Partager sur</string>
+    <string name="end">Fin du jeu</string>
+    <string name="endtext">Merci d\'avoir joué à Enter the void! \nPlus de niveaux seront ajoutés pas la suite.\n\nEn attendant vous pouvez rejouer, aller voir vos statistiques dans les paramètres ou encore me contacter!</string>
+    <string name="mainmenu">Menu</string>
+    <string name="ball">Balle</string>
+    <string name="hole">Troue</string>
+    <string name="arrow">Flèche</string>
+    <string name="menu_action_help">Aide</string>
+    <string name="helpText">- Pour redémarrer le niveau, taper deux fois l\'écran rapidement.\n- Plus votre doigt est loin de la balle au lancé, plus celle-ci ira vite.\n- Vous pouvez remettre à zéro le jeu dans les paramètres.</string>
+	<string name="goback">Retour</string>
+	<string name="restart">Rejouer</string>
+	<string name="cheater">Ah bah bravo! C\'est bien de tricher!</string>
+    
+    <plurals name="rebounds">
+        <item quantity="zero">%d rebond.</item>
+        <item quantity="one">%d rebond.</item>
+        <item quantity="other">%d rebonds.</item>
+    </plurals>
+    
+    <plurals name="reboundsLeft">
+        <item quantity="zero">%d rebond restant</item>
+        <item quantity="one">%d rebond restant</item>
+        <item quantity="other">%d rebonds restants</item>
+    </plurals>
+
+    <string name="title_activity_help">HelpActivity</string>
+
+</resources>

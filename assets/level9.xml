@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+    <holex value="500" />
+    <holey value="250" />      
+    
+    <wall valuex="350" valuey="750" width="500" height="25" critic="1"/> 
+    
+    <wall valuex="0" valuey="500" width="25" height="700" critic="1"/> 
+    
+    <wall valuex="1060" valuey="500" width="25" height="700" critic="0"/>  
+    
+    <options maxbounds="1" />   
+</level>
